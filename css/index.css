@@ -6,7 +6,7 @@
 
 body {
 
-  background: #1c1c1c;
+  background: linear-gradient(180deg, #000320, #151515);
 
   background: conic-gradient(from var(--angle), #202a3b, #00062b);
 
