@@ -220,7 +220,7 @@ function rotateBackground () {
 
   // To change the rotation of the linear gradient based on the scroll percentage:
 
-  let angle = scrollPercent * 3.6; // Multiply by 3.6 to convert to degrees
+  let angle = scrollPercent * 3.6 * 0.66; // Multiply by 3.6 to convert to degrees
 
   r.style.setProperty('--angle', `${45 + angle}deg`);
 
