@@ -36,10 +36,10 @@
   }
   
   .shape {
-    height: 180px;
-    width: 130px;
+    height: 25vh;
+    width: 32vw;
     border-radius: 50%;
-    filter: blur(65px);
+    filter: blur(20vw);
     position: absolute;
   }
   
